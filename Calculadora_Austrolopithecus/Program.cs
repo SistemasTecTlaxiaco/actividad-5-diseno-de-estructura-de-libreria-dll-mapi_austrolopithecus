@@ -11,7 +11,7 @@ namespace Calculadora_Austrolopithecus
         static void Main(string[] args)
             //ingreso de usuario Ariadna 
         {
-            //INGRESO DEL 2DO COLABORADOR MAYRA 
+            //INGRES DE USUARIO MAYRA 
         }
     }
 }
