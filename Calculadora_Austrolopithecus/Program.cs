@@ -9,9 +9,10 @@ namespace Calculadora_Austrolopithecus
     internal class Program
     {
         static void Main(string[] args)
-            //ingreso de usuario Ariadna 
+        //ingreso de usuario Ariadna 
         {
             // Ingreso de Usuario Mayra 
+            // Declaracion de metodos
         }
     }
 }
