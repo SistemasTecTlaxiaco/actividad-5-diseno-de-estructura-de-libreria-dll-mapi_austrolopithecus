@@ -10,5 +10,14 @@ namespace Biblioteca1
         //ingreso usuario Ariadna
         // Ingreso usuario Mayra 
     {
+        public static double sumar(double uno, double dos)
+        {
+            return uno + dos;
+        }
+
+        public static double restar(double uno, double dos)
+        {
+            return uno - dos;
+        }
     }
 }
