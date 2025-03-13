@@ -10,6 +10,7 @@ namespace Calculadora_Austrolopithecus
     {
         static void Main(string[] args)
         //ingreso de usuario Ariadna 
+        //ingreso de usuario Paola
         {
             // Ingreso de Usuario Mayra 
             // Declaracion de metodos
