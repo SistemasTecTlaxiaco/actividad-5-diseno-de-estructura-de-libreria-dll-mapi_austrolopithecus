@@ -9,7 +9,7 @@ namespace Biblioteca1
     public class Class1
     //ingreso usuario Ariadna
     // Ingreso usuario Mayra 
-    //Ingreso de colaborador Isaías
+    //Ingreso de colaborador Isaíass
     {
         public static double sumar(double uno, double dos)
         {
@@ -36,6 +36,22 @@ namespace Biblioteca1
             {
                 throw new DivideByZeroException("No se puede dividir entre cero.");
             }
+        }
+
+        public static double raizCuadrada(double uno)
+        {
+            if (uno < 0)//VALIDAR CALCULO DE RAICES NEGATIVAS
+            {
+                throw new ArgumentException("imposible calcular la raíz cuadrada de un número negativo");
+            }
+            return Math.Sqrt(uno);//RETORNAR EL VALOR DE LA RAÍZ
+        }
+
+        public static double potencia(double uno, double dos)
+        {
+            double baseNumero = uno;//DEFINIR BASE
+            double exponente = dos;//DEFINIR EXPONENTE
+            return Math.Pow(baseNumero, exponente);//RETORNAR LA BASE ELEVADA A UN EXPONENTE
         }
     }
 }
