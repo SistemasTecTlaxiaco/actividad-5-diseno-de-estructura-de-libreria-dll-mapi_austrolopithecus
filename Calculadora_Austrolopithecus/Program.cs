@@ -10,8 +10,8 @@ namespace Calculadora_Austrolopithecus
     {
         static void Main(string[] args)
             //ingreso de usuario Ariadna 
-        {
-            //INGRES DE USUARIO MAYRA 
+        {           
+         //Ingreso de usuario Mayra 
         }
     }
 }
