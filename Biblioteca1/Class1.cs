@@ -54,5 +54,19 @@ namespace Biblioteca1
             double exponente = dos;//DEFINIR EXPONENTE
             return Math.Pow(baseNumero, exponente);//RETORNAR LA BASE ELEVADA A UN EXPONENTE
         }
+        public static double porcentaje(double total, double porcentaje)
+        {
+            return (total * porcentaje) / 100;
+        }
+
+        public static double fraccion(double num)
+        {
+            if (num == 0)
+            {
+                Console.WriteLine("Error: No se puede calcular la fracción de cero.");
+                return double.NaN;
+            }
+            return 1 / num;
+        }
     }
 }
