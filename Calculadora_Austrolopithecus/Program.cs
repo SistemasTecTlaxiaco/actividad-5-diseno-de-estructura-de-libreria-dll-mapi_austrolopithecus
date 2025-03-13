@@ -13,7 +13,6 @@ namespace Calculadora_Austrolopithecus
         //ingreso de usuario Paola
         {
             // Ingreso de Usuario Mayra 
-            // Declaracion de metodos
         }
     }
 }
