@@ -54,7 +54,7 @@ namespace Biblioteca1
             double exponente = dos;//DEFINIR EXPONENTE
             return Math.Pow(baseNumero, exponente);//RETORNAR LA BASE ELEVADA A UN EXPONENTE
         }
-        public static double porcentaje(double total, double porcentaje)
+        public static double porcentaje(double total, double porcentaje) // Metodo de porcentaje
         {
             return (total * porcentaje) / 100;
         }
