@@ -9,6 +9,7 @@ namespace Biblioteca1
     public class Class1
         //ingreso usuario Ariadna
         // Ingreso usuario Mayra 
+        //Ingreso usuario Isaías
     {
         public static double sumar(double uno, double dos)
         {
