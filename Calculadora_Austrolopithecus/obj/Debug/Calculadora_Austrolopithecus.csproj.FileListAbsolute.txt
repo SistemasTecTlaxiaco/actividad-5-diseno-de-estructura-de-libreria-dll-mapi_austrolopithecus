@@ -1,0 +1,7 @@
+C:\Users\ayahi\source\repos\SistemasTecTlaxiaco\actividad-5-diseno-de-estructura-de-libreria-dll-mapi_austrolopithecus\Calculadora_Austrolopithecus\bin\Debug\Calculadora_Austrolopithecus.exe.config
+C:\Users\ayahi\source\repos\SistemasTecTlaxiaco\actividad-5-diseno-de-estructura-de-libreria-dll-mapi_austrolopithecus\Calculadora_Austrolopithecus\bin\Debug\Calculadora_Austrolopithecus.exe
+C:\Users\ayahi\source\repos\SistemasTecTlaxiaco\actividad-5-diseno-de-estructura-de-libreria-dll-mapi_austrolopithecus\Calculadora_Austrolopithecus\bin\Debug\Calculadora_Austrolopithecus.pdb
+C:\Users\ayahi\source\repos\SistemasTecTlaxiaco\actividad-5-diseno-de-estructura-de-libreria-dll-mapi_austrolopithecus\Calculadora_Austrolopithecus\obj\Debug\Calculadora_Austrolopithecus.csproj.AssemblyReference.cache
+C:\Users\ayahi\source\repos\SistemasTecTlaxiaco\actividad-5-diseno-de-estructura-de-libreria-dll-mapi_austrolopithecus\Calculadora_Austrolopithecus\obj\Debug\Calculadora_Austrolopithecus.csproj.CoreCompileInputs.cache
+C:\Users\ayahi\source\repos\SistemasTecTlaxiaco\actividad-5-diseno-de-estructura-de-libreria-dll-mapi_austrolopithecus\Calculadora_Austrolopithecus\obj\Debug\Calculadora_Austrolopithecus.exe
+C:\Users\ayahi\source\repos\SistemasTecTlaxiaco\actividad-5-diseno-de-estructura-de-libreria-dll-mapi_austrolopithecus\Calculadora_Austrolopithecus\obj\Debug\Calculadora_Austrolopithecus.pdb
