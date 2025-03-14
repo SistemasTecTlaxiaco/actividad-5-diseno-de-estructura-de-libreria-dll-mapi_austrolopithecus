@@ -1,0 +1,7 @@
+C:\Users\ariad\source\repos\Calculadora_Austrolopithecus\Calculadora_Austrolopithecus\bin\Debug\Calculadora_Austrolopithecus.exe.config
+C:\Users\ariad\source\repos\Calculadora_Austrolopithecus\Calculadora_Austrolopithecus\bin\Debug\Calculadora_Austrolopithecus.exe
+C:\Users\ariad\source\repos\Calculadora_Austrolopithecus\Calculadora_Austrolopithecus\bin\Debug\Calculadora_Austrolopithecus.pdb
+C:\Users\ariad\source\repos\Calculadora_Austrolopithecus\Calculadora_Austrolopithecus\obj\Debug\Calculadora_Austrolopithecus.csproj.AssemblyReference.cache
+C:\Users\ariad\source\repos\Calculadora_Austrolopithecus\Calculadora_Austrolopithecus\obj\Debug\Calculadora_Austrolopithecus.csproj.CoreCompileInputs.cache
+C:\Users\ariad\source\repos\Calculadora_Austrolopithecus\Calculadora_Austrolopithecus\obj\Debug\Calculadora_Austrolopithecus.exe
+C:\Users\ariad\source\repos\Calculadora_Austrolopithecus\Calculadora_Austrolopithecus\obj\Debug\Calculadora_Austrolopithecus.pdb
