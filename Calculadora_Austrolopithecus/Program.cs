@@ -37,6 +37,14 @@ namespace Calculadora_Austrolopithecus
 
                         switch (opcion)
                         {
+                            case 3:
+                                teclado1();
+                                Console.WriteLine("El resultado de la Multiplicacion es: " + Class1.multiplicar(num1, num2));
+                                break;
+                            case 4:
+                                teclado1();
+                                Console.WriteLine("El resultado de la Division es: " + Class1.dividir(num1, num2));
+                                break;
                             case 9:
                                 Console.WriteLine("Has elegido salir de la aplicación");
                                 Environment.Exit(1);
