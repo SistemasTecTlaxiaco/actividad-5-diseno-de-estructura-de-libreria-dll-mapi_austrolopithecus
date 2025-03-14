@@ -53,7 +53,16 @@ namespace Calculadora_Austrolopithecus
                                 teclado1();
                                 Console.WriteLine("El resultado de la Division es: " + Class1.dividir(num1, num2));
                                 break;
-                            case 9:
+                        case 7:
+                            teclado1();
+                            Console.WriteLine("El resultado del porcentaje es: " + Class1.porcentaje(num1, num2));
+                            break;
+                        case 8:
+                            teclado0();
+                            Console.WriteLine("El resultado de la fraccion es: " + Class1.fraccion(num0, 0));
+                            break;
+               
+                        case 9:
                                 Console.WriteLine("Has elegido salir de la aplicación");
                                 Environment.Exit(1);
                                 salir = true;
@@ -61,7 +70,9 @@ namespace Calculadora_Austrolopithecus
                             default:
                                 Console.WriteLine("Elige una opcion entre 1 y 9");
                                 break;
+
                         }
+
 
                     }
                     catch (FormatException e)
