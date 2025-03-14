@@ -20,26 +20,8 @@ namespace Calculadora_Austrolopithecus
             bool salir = false;
             while (!salir)
             {
-                try
-                {
-                    Console.WriteLine(" Menu Principal de Calculadora del Tecnologico de Tlaxiaco");
-                    Console.WriteLine("1. Sumar dos numeros");
-                    Console.WriteLine("2. Restar dos numeros");
-                    Console.WriteLine("3. Multiplicar");
-                    Console.WriteLine("4. Dividir");
-                    Console.WriteLine("5. Raiz Cuadrada");
-                    Console.WriteLine("6. Potencia");
-                    Console.WriteLine("7. Porcentaje");
-                    Console.WriteLine("8. Fraccion");
-                    Console.WriteLine("9. Salir");
-                    Console.WriteLine("------------------------------------------");
-                    Console.WriteLine("Elige una de las opciones");
-                    int opcion = Convert.ToInt32(Console.ReadLine());
-
-                
-                
-            
+                }
         }
     }
+
 }
-    
