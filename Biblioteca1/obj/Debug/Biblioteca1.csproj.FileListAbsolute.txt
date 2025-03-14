@@ -4,3 +4,9 @@ C:\Users\ariad\source\repos\Calculadora_Austrolopithecus\Biblioteca1\obj\Debug\B
 C:\Users\ariad\source\repos\Calculadora_Austrolopithecus\Biblioteca1\obj\Debug\Biblioteca1.csproj.CoreCompileInputs.cache
 C:\Users\ariad\source\repos\Calculadora_Austrolopithecus\Biblioteca1\obj\Debug\Biblioteca1.dll
 C:\Users\ariad\source\repos\Calculadora_Austrolopithecus\Biblioteca1\obj\Debug\Biblioteca1.pdb
+C:\Users\GonzalezLita\source\repos\actividad-5-diseno-de-estructura-de-libreria-dll-mapi_austrolopithecus\Biblioteca1\bin\Debug\Biblioteca1.dll
+C:\Users\GonzalezLita\source\repos\actividad-5-diseno-de-estructura-de-libreria-dll-mapi_austrolopithecus\Biblioteca1\bin\Debug\Biblioteca1.pdb
+C:\Users\GonzalezLita\source\repos\actividad-5-diseno-de-estructura-de-libreria-dll-mapi_austrolopithecus\Biblioteca1\obj\Debug\Biblioteca1.csproj.AssemblyReference.cache
+C:\Users\GonzalezLita\source\repos\actividad-5-diseno-de-estructura-de-libreria-dll-mapi_austrolopithecus\Biblioteca1\obj\Debug\Biblioteca1.csproj.CoreCompileInputs.cache
+C:\Users\GonzalezLita\source\repos\actividad-5-diseno-de-estructura-de-libreria-dll-mapi_austrolopithecus\Biblioteca1\obj\Debug\Biblioteca1.dll
+C:\Users\GonzalezLita\source\repos\actividad-5-diseno-de-estructura-de-libreria-dll-mapi_austrolopithecus\Biblioteca1\obj\Debug\Biblioteca1.pdb
