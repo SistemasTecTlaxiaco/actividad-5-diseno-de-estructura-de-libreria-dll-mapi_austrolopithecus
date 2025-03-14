@@ -37,6 +37,14 @@ namespace Calculadora_Austrolopithecus
 
                         switch (opcion)
                         {
+                            case 1:
+                                teclado1();
+                                Console.WriteLine("El resultado de la suma es: " + Class1.sumar(num1, num2));
+                                break;
+                            case 2:
+                                teclado1();
+                                Console.WriteLine("El resultado de la Resta es: " + Class1.restar(num1, num2));
+                                break;
                             case 3:
                                 teclado1();
                                 Console.WriteLine("El resultado de la Multiplicacion es: " + Class1.multiplicar(num1, num2));
