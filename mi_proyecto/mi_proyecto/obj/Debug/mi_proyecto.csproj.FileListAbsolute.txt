@@ -1,0 +1,10 @@
+C:\Users\isaia\source\repos\mi_proyecto\mi_proyecto\obj\Debug\mi_proyecto.csproj.AssemblyReference.cache
+C:\Users\isaia\source\repos\mi_proyecto\mi_proyecto\obj\Debug\mi_proyecto.Form1.resources
+C:\Users\isaia\source\repos\mi_proyecto\mi_proyecto\obj\Debug\mi_proyecto.Properties.Resources.resources
+C:\Users\isaia\source\repos\mi_proyecto\mi_proyecto\obj\Debug\mi_proyecto.csproj.GenerateResource.cache
+C:\Users\isaia\source\repos\mi_proyecto\mi_proyecto\obj\Debug\mi_proyecto.csproj.CoreCompileInputs.cache
+C:\Users\isaia\source\repos\mi_proyecto\mi_proyecto\bin\Debug\mi_proyecto.exe.config
+C:\Users\isaia\source\repos\mi_proyecto\mi_proyecto\bin\Debug\mi_proyecto.exe
+C:\Users\isaia\source\repos\mi_proyecto\mi_proyecto\bin\Debug\mi_proyecto.pdb
+C:\Users\isaia\source\repos\mi_proyecto\mi_proyecto\obj\Debug\mi_proyecto.exe
+C:\Users\isaia\source\repos\mi_proyecto\mi_proyecto\obj\Debug\mi_proyecto.pdb

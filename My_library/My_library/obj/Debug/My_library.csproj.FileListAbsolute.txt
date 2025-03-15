@@ -1,0 +1,6 @@
+C:\Users\isaia\source\repos\My_library\My_library\bin\Debug\My_library.dll
+C:\Users\isaia\source\repos\My_library\My_library\bin\Debug\My_library.pdb
+C:\Users\isaia\source\repos\My_library\My_library\obj\Debug\My_library.csproj.AssemblyReference.cache
+C:\Users\isaia\source\repos\My_library\My_library\obj\Debug\My_library.csproj.CoreCompileInputs.cache
+C:\Users\isaia\source\repos\My_library\My_library\obj\Debug\My_library.dll
+C:\Users\isaia\source\repos\My_library\My_library\obj\Debug\My_library.pdb

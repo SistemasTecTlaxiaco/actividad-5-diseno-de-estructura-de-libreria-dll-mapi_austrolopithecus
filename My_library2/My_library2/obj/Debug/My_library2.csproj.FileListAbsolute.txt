@@ -1,0 +1,10 @@
+C:\Users\isaia\source\repos\My_library2\My_library2\bin\Debug\My_library2.exe.config
+C:\Users\isaia\source\repos\My_library2\My_library2\bin\Debug\My_library2.exe
+C:\Users\isaia\source\repos\My_library2\My_library2\bin\Debug\My_library2.pdb
+C:\Users\isaia\source\repos\My_library2\My_library2\obj\Debug\My_library2.csproj.AssemblyReference.cache
+C:\Users\isaia\source\repos\My_library2\My_library2\obj\Debug\My_library2.csproj.CoreCompileInputs.cache
+C:\Users\isaia\source\repos\My_library2\My_library2\obj\Debug\My_library2.exe
+C:\Users\isaia\source\repos\My_library2\My_library2\obj\Debug\My_library2.pdb
+C:\Users\isaia\source\repos\My_library2\My_library2\bin\Debug\My_library.dll
+C:\Users\isaia\source\repos\My_library2\My_library2\bin\Debug\My_library.pdb
+C:\Users\isaia\source\repos\My_library2\My_library2\obj\Debug\My_libra.08E2BAF7.Up2Date
