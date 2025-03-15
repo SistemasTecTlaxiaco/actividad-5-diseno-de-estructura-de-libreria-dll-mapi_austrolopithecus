@@ -68,5 +68,16 @@ namespace Biblioteca1
             }
             return 1 / num;
         }
+        /// Calcula el seno de un ángulo en radianes.
+        public static double Seno(double uno)
+        {
+            return Math.Sin(uno);
+        }
+
+        /// Calcula el coseno de un ángulo en radianes
+        public static double Coseno(double uno)
+        {
+            return Math.Cos(uno);
+        }
     }
 }
