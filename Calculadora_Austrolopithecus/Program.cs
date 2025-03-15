@@ -70,7 +70,7 @@ namespace Calculadora_Austrolopithecus
                             break;
                         case 10:
                             teclado0();
-                            Console.WriteLine("El resultado del seno del ángulo es: " + Class1.Coseno(num0));
+                            Console.WriteLine("El resultado del coseno del ángulo es: " + Class1.Coseno(num0));
                             break;
                         case 11:
                             Console.WriteLine("Has elegido salir de la aplicación");
