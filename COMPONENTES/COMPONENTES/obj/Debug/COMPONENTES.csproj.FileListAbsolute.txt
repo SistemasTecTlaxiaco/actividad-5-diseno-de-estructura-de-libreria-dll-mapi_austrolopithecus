@@ -1,8 +1,0 @@
-C:\Users\isaia\source\repos\COMPONENTES\COMPONENTES\bin\Debug\COMPONENTES.dll
-C:\Users\isaia\source\repos\COMPONENTES\COMPONENTES\bin\Debug\COMPONENTES.pdb
-C:\Users\isaia\source\repos\COMPONENTES\COMPONENTES\obj\Debug\COMPONENTES.csproj.AssemblyReference.cache
-C:\Users\isaia\source\repos\COMPONENTES\COMPONENTES\obj\Debug\COMPONENTES.UserControl1.resources
-C:\Users\isaia\source\repos\COMPONENTES\COMPONENTES\obj\Debug\COMPONENTES.csproj.GenerateResource.cache
-C:\Users\isaia\source\repos\COMPONENTES\COMPONENTES\obj\Debug\COMPONENTES.csproj.CoreCompileInputs.cache
-C:\Users\isaia\source\repos\COMPONENTES\COMPONENTES\obj\Debug\COMPONENTES.dll
-C:\Users\isaia\source\repos\COMPONENTES\COMPONENTES\obj\Debug\COMPONENTES.pdb

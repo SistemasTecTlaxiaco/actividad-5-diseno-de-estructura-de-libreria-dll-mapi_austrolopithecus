@@ -1,6 +1,0 @@
-C:\Users\isaia\source\repos\UNO_Tío_Alfredo_xdxdxd\UNO_Tío_Alfredo_xdxdxd\bin\Debug\UNO_Tío_Alfredo_xdxdxd.dll
-C:\Users\isaia\source\repos\UNO_Tío_Alfredo_xdxdxd\UNO_Tío_Alfredo_xdxdxd\bin\Debug\UNO_Tío_Alfredo_xdxdxd.pdb
-C:\Users\isaia\source\repos\UNO_Tío_Alfredo_xdxdxd\UNO_Tío_Alfredo_xdxdxd\obj\Debug\UNO_Tío_Alfredo_xdxdxd.csproj.AssemblyReference.cache
-C:\Users\isaia\source\repos\UNO_Tío_Alfredo_xdxdxd\UNO_Tío_Alfredo_xdxdxd\obj\Debug\UNO_Tío_Alfredo_xdxdxd.csproj.CoreCompileInputs.cache
-C:\Users\isaia\source\repos\UNO_Tío_Alfredo_xdxdxd\UNO_Tío_Alfredo_xdxdxd\obj\Debug\UNO_Tío_Alfredo_xdxdxd.dll
-C:\Users\isaia\source\repos\UNO_Tío_Alfredo_xdxdxd\UNO_Tío_Alfredo_xdxdxd\obj\Debug\UNO_Tío_Alfredo_xdxdxd.pdb

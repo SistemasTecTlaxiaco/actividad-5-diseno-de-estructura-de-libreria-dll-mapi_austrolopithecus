@@ -1,7 +1,0 @@
-C:\Users\isaia\source\repos\CalculadoraF\CalculadoraF\bin\Debug\CalculadoraF.exe.config
-C:\Users\isaia\source\repos\CalculadoraF\CalculadoraF\bin\Debug\CalculadoraF.exe
-C:\Users\isaia\source\repos\CalculadoraF\CalculadoraF\bin\Debug\CalculadoraF.pdb
-C:\Users\isaia\source\repos\CalculadoraF\CalculadoraF\obj\Debug\CalculadoraF.csproj.AssemblyReference.cache
-C:\Users\isaia\source\repos\CalculadoraF\CalculadoraF\obj\Debug\CalculadoraF.csproj.CoreCompileInputs.cache
-C:\Users\isaia\source\repos\CalculadoraF\CalculadoraF\obj\Debug\CalculadoraF.exe
-C:\Users\isaia\source\repos\CalculadoraF\CalculadoraF\obj\Debug\CalculadoraF.pdb
