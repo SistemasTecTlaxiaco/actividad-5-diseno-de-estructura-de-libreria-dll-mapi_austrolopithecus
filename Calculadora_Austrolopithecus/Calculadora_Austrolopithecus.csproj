@@ -34,7 +34,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Biblioteca1">
-      <HintPath>..\Biblioteca1.dll</HintPath>
+      <HintPath>..\Biblioteca1\bin\Debug\Biblioteca1.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

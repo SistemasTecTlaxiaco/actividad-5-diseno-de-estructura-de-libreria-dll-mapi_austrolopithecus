@@ -19,3 +19,13 @@ C:\Users\GonzalezLita\source\repos\actividad-5-diseno-de-estructura-de-libreria-
 C:\Users\GonzalezLita\source\repos\actividad-5-diseno-de-estructura-de-libreria-dll-mapi_austrolopithecus\Calculadora_Austrolopithecus\obj\Debug\Calculadora_Austrolopithecus.csproj.CoreCompileInputs.cache
 C:\Users\GonzalezLita\source\repos\actividad-5-diseno-de-estructura-de-libreria-dll-mapi_austrolopithecus\Calculadora_Austrolopithecus\obj\Debug\Calculadora_Austrolopithecus.exe
 C:\Users\GonzalezLita\source\repos\actividad-5-diseno-de-estructura-de-libreria-dll-mapi_austrolopithecus\Calculadora_Austrolopithecus\obj\Debug\Calculadora_Austrolopithecus.pdb
+C:\Users\ariad\source\repos\actividad-5-diseno-de-estructura-de-libreria-dll-mapi_austrolopithecus\Calculadora_Austrolopithecus\bin\Debug\Calculadora_Austrolopithecus.exe.config
+C:\Users\ariad\source\repos\actividad-5-diseno-de-estructura-de-libreria-dll-mapi_austrolopithecus\Calculadora_Austrolopithecus\bin\Debug\Calculadora_Austrolopithecus.exe
+C:\Users\ariad\source\repos\actividad-5-diseno-de-estructura-de-libreria-dll-mapi_austrolopithecus\Calculadora_Austrolopithecus\bin\Debug\Calculadora_Austrolopithecus.pdb
+C:\Users\ariad\source\repos\actividad-5-diseno-de-estructura-de-libreria-dll-mapi_austrolopithecus\Calculadora_Austrolopithecus\bin\Debug\Biblioteca1.dll
+C:\Users\ariad\source\repos\actividad-5-diseno-de-estructura-de-libreria-dll-mapi_austrolopithecus\Calculadora_Austrolopithecus\bin\Debug\Biblioteca1.pdb
+C:\Users\ariad\source\repos\actividad-5-diseno-de-estructura-de-libreria-dll-mapi_austrolopithecus\Calculadora_Austrolopithecus\obj\Debug\Calculadora_Austrolopithecus.csproj.AssemblyReference.cache
+C:\Users\ariad\source\repos\actividad-5-diseno-de-estructura-de-libreria-dll-mapi_austrolopithecus\Calculadora_Austrolopithecus\obj\Debug\Calculadora_Austrolopithecus.csproj.CoreCompileInputs.cache
+C:\Users\ariad\source\repos\actividad-5-diseno-de-estructura-de-libreria-dll-mapi_austrolopithecus\Calculadora_Austrolopithecus\obj\Debug\Calculad.6570EEAF.Up2Date
+C:\Users\ariad\source\repos\actividad-5-diseno-de-estructura-de-libreria-dll-mapi_austrolopithecus\Calculadora_Austrolopithecus\obj\Debug\Calculadora_Austrolopithecus.exe
+C:\Users\ariad\source\repos\actividad-5-diseno-de-estructura-de-libreria-dll-mapi_austrolopithecus\Calculadora_Austrolopithecus\obj\Debug\Calculadora_Austrolopithecus.pdb

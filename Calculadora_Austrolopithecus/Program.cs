@@ -30,9 +30,9 @@ namespace Calculadora_Austrolopithecus
                         Console.WriteLine("6. Potencia");
                         Console.WriteLine("7. Porcentaje");
                         Console.WriteLine("8. Fraccion");
-                    Console.WriteLine("9. Seno");
-                    Console.WriteLine("10. Coseno");
-                    Console.WriteLine("11. Salir");
+                        Console.WriteLine("9. Seno");
+                        Console.WriteLine("10. Coseno");
+                        Console.WriteLine("11. Salir");
                         Console.WriteLine("------------------------------------------");
                         Console.WriteLine("Elige una de las opciones");
                         int opcion = Convert.ToInt32(Console.ReadLine());
@@ -55,37 +55,45 @@ namespace Calculadora_Austrolopithecus
                                 teclado1();
                                 Console.WriteLine("El resultado de la Division es: " + Class1.dividir(num1, num2));
                                 break;
-                        case 7:
-                            teclado1();
-                            Console.WriteLine("El resultado del porcentaje es: " + Class1.porcentaje(num1, num2));
-                            break;
-                        case 8:
-                            teclado0();
-                            Console.WriteLine("El resultado de la fraccion es: " + Class1.fraccion(num0));
-                            break;
-               
-                        case 9:
-                            teclado0();
-                            Console.WriteLine("El resultado del seno del ángulo es: " + Class1.Seno(num0));
-                            break;
-                        case 10:
-                            teclado0();
-                            Console.WriteLine("El resultado del coseno del ángulo es: " + Class1.Coseno(num0));
-                            break;
-                        case 11:
-                            Console.WriteLine("Has elegido salir de la aplicación");
-                            Environment.Exit(1);
-                            salir = true;
-                            break;
-                        default:
-                                Console.WriteLine("Elige una opcion entre 1 y 9");
+                            case 5:
+                                 teclado0();
+                                 Console.WriteLine("El resultado de la Raiz cuadrada es: " + Class1.raizCuadrada(num1));
                                 break;
+                             case 6:
+                                teclado1();
+                                Console.WriteLine("El resultado de la Potencia es: " + Class1.potencia(num1, num2));
+                                break;
+                            case 7:
+                                teclado1();
+                                Console.WriteLine("El resultado del porcentaje es: " + Class1.porcentaje(num1, num2));
+                                break;
+                            case 8:
+                                 teclado0();
+                                 Console.WriteLine("El resultado de la fraccion es: " + Class1.fraccion(num0));
+                                 break;
+               
+                             case 9:
+                                    teclado0();
+                                    Console.WriteLine("El resultado del seno del ángulo es: " + Class1.Seno(num0));
+                                    break;
+                                case 10:
+                                    teclado0();
+                                    Console.WriteLine("El resultado del coseno del ángulo es: " + Class1.Coseno(num0));
+                                    break;
+                                case 11:
+                                    Console.WriteLine("Has elegido salir de la aplicación");
+                                    Environment.Exit(1);
+                                    salir = true;
+                                    break;
+                                default:
+                                        Console.WriteLine("Elige una opcion entre 1 y 9");
+                                        break;
 
                         }
 
 
                     }
-                    catch (FormatException e)
+                    catch (FormatException )
                     {
                         Console.WriteLine("Error al ingresar!!");
                     }
