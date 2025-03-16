@@ -38,14 +38,17 @@ namespace Biblioteca1
                 throw new DivideByZeroException("No se puede dividir entre cero.");
             }
         }
-
-        public static double raizCuadrada(double uno)
+        public static string raizCuadrada(double uno)
         {
-            if (uno < 0)//VALIDAR CALCULO DE RAICES NEGATIVAS
+            if (uno < 0) // Si es negativo, se devuelve la parte imaginaria
             {
-                throw new ArgumentException("imposible calcular la raíz cuadrada de un número negativo");
+                double raiz = Math.Sqrt(-uno); // Se toma el valor absoluto
+                return $"{raiz}i"; // Se representa como número imaginario
             }
-            return Math.Sqrt(uno);//RETORNAR EL VALOR DE LA RAÍZ
+            else
+            {
+                return Math.Sqrt(uno).ToString(); // Si es positivo, se devuelve normalmente
+            }
         }
 
         public static double potencia(double uno, double dos)
